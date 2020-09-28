@@ -1,0 +1,16 @@
+10/2/20 - Web Development
+
+Topic(s) - Git, Version Control, HTML, Basic CSS
+
+Objectives - {
+    - Git Version Control
+        - How assignments will work?
+        - How to view projects and assignmentswe do?
+    - Installation (Git, Github, Visual Studio Code)
+    - Setting Up Folders for Web Development
+    - Programming
+        - 
+    - Go Through Assignments and how to submit
+    - Break
+    - Questions
+}
