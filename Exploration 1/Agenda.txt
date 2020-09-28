@@ -5,11 +5,17 @@ Topic(s) - Git, Version Control, HTML, Basic CSS
 Objectives - {
     - Git Version Control
         - How assignments will work?
-        - How to view projects and assignmentswe do?
+        - How to view projects and assignments we do?
     - Installation (Git, Github, Visual Studio Code)
     - Setting Up Folders for Web Development
     - Programming
-        - 
+        - Basics of HTML
+        - Structure of HTML Tag
+        - Different Tags
+        - Inline CSS/JS
+        - Basics of CSS
+        - Structure of CSS Code
+        - Coloring and Positioning
     - Go Through Assignments and how to submit
     - Break
     - Questions
