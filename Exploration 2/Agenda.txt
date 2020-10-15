@@ -1,0 +1,25 @@
+10/16/20 - Web Development
+
+Topic(s) - HTML Tags, HTML, Inline CSS, In-File CSS, External CSS, In-line JS, External JS
+
+Objectives - {
+    - HTML Tag Basics
+    - HTML
+        - Text Tags
+        - Buttons
+        - Links
+        - IFRAME
+    - Styling A Buttons
+        - In-line
+        - CSS Properties
+        - CSS Syntax
+    - In-File CSS
+        - Classes
+        - ID
+    - External CSS
+        - Link to HTML
+    - In-Line JS
+        - onclick
+        - functions
+    - External JS
+}
