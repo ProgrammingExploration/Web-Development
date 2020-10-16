@@ -1,0 +1,12 @@
+1) Create Index.html/AboutMe.html
+2) Title --> Your Name
+3) On The Webpage
+    - Your Name (h1)
+    - Your Age (h2)
+    - A little description about you (p)
+    - Link to About AboutMe
+    - Picture of Something
+4) AboutMe.html
+    - Name
+    - Age
+    - Job
