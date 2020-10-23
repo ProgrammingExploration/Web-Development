@@ -1,0 +1,19 @@
+10/23/20 - Web Development
+
+Topic(s) - Finishing HTML, Different Types of CSS, CSS Grid, Flexbox, In-Line JavaScript
+
+Objectives - {
+    - HTML
+        - Image Tags
+        - Styled Text Tags
+        - In-Line Styles
+    - CSS
+        - In-Line Styles
+        - Classes
+        - Id
+        - In-File Styles
+        - External Styles
+    - CSS Grid
+    - Flexbox
+    - In-Line JavaScript
+}
