@@ -1,0 +1,18 @@
+10/30/20 - Website Development
+
+Topic(s) - Basics of JS, CSS Grid, CSS Flexbox, Media queries
+
+Objectives - {
+    - Basics of JS
+        - CONSOLE
+        - Variables
+        - Document
+            - Properties of Document
+        - Functions
+            - Arrow Functions
+            - Adding to Buttons
+    - Advanced CSS
+        - CSS Grid
+        - CSS Flexbox
+        - Media queries
+}
