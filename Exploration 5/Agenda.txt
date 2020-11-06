@@ -1,0 +1,14 @@
+11/6/20 - Web Development
+
+Topic(s) - CSS, CSS Grid, Flexbox
+
+Objectives - {
+    - Basics of CSS and Positioning
+    - CSS Grid
+        - Properties of Grid
+        - Positioning
+    - Flexbox
+        - Properties Flex
+        - Flex Positioning
+    - CSS with JS
+}

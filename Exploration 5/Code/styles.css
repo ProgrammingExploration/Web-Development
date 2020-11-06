@@ -1,0 +1,47 @@
+body {
+    margin: 10px;
+    padding: 0;
+}
+
+.flex {
+    display: flex;
+    background-color: yellow;
+    flex-direction: row;
+    justify-content: space-around;
+}
+
+.grid {
+    display: grid;
+    grid-template-rows: 1fr 1fr 1fr;
+    grid-template-columns: repeat(5, 20%);
+}
+
+.one {
+    background-color: green;
+    grid-column: 1 / 5;
+    grid-row: 3 / 5;
+}
+
+.two {
+    background-color: blue;
+}
+
+.three {
+    background-color: pink;
+}
+
+.four {
+    background-color: lightblue;
+}
+
+.five {
+    background-color: lightgreen;
+}
+
+.text {
+    color: white;
+}
+
+.appear {
+    color: black;
+}
