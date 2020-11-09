@@ -1,8 +1,9 @@
 10/30/20 - Website Development
 
-Topic(s) - Basics of JS, CSS Grid, CSS Flexbox, Media queries
+Topic(s) - Icons, Basics of JS, CSS Grid, CSS Flexbox, Media queries
 
 Objectives - {
+    - Favicons (Icons)
     - Basics of JS
         - CONSOLE
         - Variables
