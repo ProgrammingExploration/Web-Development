@@ -1,0 +1,30 @@
+13/11/20 - Web Development
+
+Topic(s) - Media Queries, CSS Properties, HTML Forms
+
+Objectives - {
+    - Media Queries
+        - Getting Width and Height
+        - Changing Properties
+    - CSS Properties
+        - Positioning
+            - Absolute
+            - Relative
+        - Sizing
+            - Width
+            - Height
+        - Units
+            - PX
+            - EM
+            - REM
+        - Border
+            - Border Radius
+            - Border Color and Highlight
+    - HTML Forms
+        - Input Fields
+        - Radio Buttons
+        - Buttons
+            - Submit Forms
+        - Selection 
+            - Options
+}
