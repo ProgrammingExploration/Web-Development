@@ -1,0 +1,38 @@
+div {
+    width: 200px;
+    height: 200px;
+    margin: 10px;
+    position: relative;
+}
+
+.blue {
+    background-color: blue;
+}
+
+.red {
+    background-color: red;
+    left: 210px;
+}
+
+.green {
+    background-color: rgba(0, 255, 179, 0.801);
+    left: 420px;
+}
+
+.list {
+    list-style: none;
+}
+
+@media only screen and (max-width: 600px) {
+    h1 {
+        color: white;
+    }
+
+    body {
+        background-color: black;
+    }
+
+    .blue {
+        background-color: red;
+    }
+}

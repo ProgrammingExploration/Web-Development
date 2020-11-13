@@ -20,6 +20,13 @@ Objectives - {
         - Border
             - Border Radius
             - Border Color and Highlight
+    - HTML Lists
+        - OL
+            - LI
+        - UL
+            - LI 
+        - List-type
+        - List-Style
     - HTML Forms
         - Input Fields
         - Radio Buttons
@@ -27,4 +34,7 @@ Objectives - {
             - Submit Forms
         - Selection 
             - Options
+        - JavaScript Alerts
+            - Confirm
+            - Prompt
 }
