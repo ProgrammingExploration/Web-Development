@@ -1,0 +1,23 @@
+11/20 - Web Development
+
+Topic(s) - Inputs, Button, Form Inputs, JavaScript with Forms, Navigation Bar (Sticky)
+
+Agenda - {
+    - Forms
+        - Input
+        - Buttons
+        - onsubmit
+        - Selections
+    - Navigation Bar (Sticky)
+        - <nav></nav>
+            - Title
+            - Links
+        - Stick
+            - position: fixed;
+        - Links
+            - <ul></ul>, <li></li>
+            - list-style
+        - Media Queries
+            - Burger
+            - Open Side
+}

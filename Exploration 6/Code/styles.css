@@ -35,4 +35,12 @@ div {
     .blue {
         background-color: red;
     }
+
+    .red {
+        background-color: rgba(0, 255, 179, 0.801);
+    }
+
+    .green {
+        background-color: blue;
+    }
 }
