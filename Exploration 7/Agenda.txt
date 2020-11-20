@@ -6,20 +6,26 @@ Agenda - {
     - Forms
         - Input
         - Buttons
-        - onsubmit
+        - OnSubmit
         - Selections
-    - JS Things you need to know
-         - Destructuring
-         - Functions
-         - ListObjects
-         - Variables
-    - NPM
-        - Package.json
-        - Imports and Exports
+    - Basics
+        - Destructuring
+        - Functions
+        - List and Objects
+        - Variables
+        - If Statements
+        - For Loops
+        - Lists(Arrays)
+        - Switch Statements
+        - While Loops
     - React
         - Check Package.json
         - Cleanup
         - Navigation
         - Components
         - Imports
+        - Functional
+            - Hooks
+        - Classes
+            - Extends
 }
