@@ -8,16 +8,18 @@ Agenda - {
         - Buttons
         - onsubmit
         - Selections
-    - Navigation Bar (Sticky)
-        - <nav></nav>
-            - Title
-            - Links
-        - Stick
-            - position: fixed;
-        - Links
-            - <ul></ul>, <li></li>
-            - list-style
-        - Media Queries
-            - Burger
-            - Open Side
+    - JS Things you need to know
+         - Destructuring
+         - Functions
+         - ListObjects
+         - Variables
+    - NPM
+        - Package.json
+        - Imports and Exports
+    - React
+        - Check Package.json
+        - Cleanup
+        - Navigation
+        - Components
+        - Imports
 }
