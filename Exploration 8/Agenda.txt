@@ -1,0 +1,40 @@
+12/4/20 - Web Development
+
+Topic(s) - npx create-react-app web, Base Template, Functional Components, Class Components, useState
+
+Agenda - {
+    - npx create-react-app web
+        - yarn start
+        - Deletable Components
+            - public/
+                - favicon.ico
+                - logo192.png
+                - logo512.png
+                - manifest.json
+                - robots.txt
+            - src/
+                - App.test.js
+                - logo.svg
+                - reportWebVitals.js
+                - setupTests.js
+            - README.md
+    - App.js
+        - Clear
+    - Functional
+        - Arrow Functions
+            - return ()
+            - JSX
+        - useState()
+            - Destructuring
+            - text (Cannot directly change)
+            - setText (change 'text')
+    - Class Components
+        - Component Class
+            - Extends
+        - render()
+            - return()
+            - JSX
+        - this.state
+    - Props
+        - rendering Props
+}
