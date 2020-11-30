@@ -1,0 +1,30 @@
+12/4 - Web Development
+
+Topic(s) - useEffect, onChange, onKeyDown, react-router-dom, useHistory, useParams
+
+Agenda - {
+    - Input Fields
+        - onChange
+        - useState()
+        - onKeyDown
+            - Getting Enter Key Functionality
+    - useEffect
+        - Class Method
+            - componentDidMount()
+        - Changing Values
+    - Conditional Rendering
+        - Saving States
+            - Null Case
+            - Actual Component
+        - useEffect with Boolean State as Dependency
+    - React-Router-Dom
+        - NPM INSTALL or Yarn add
+        - import {  } from 'react-router-dom'
+        - Setup
+            - <Router></Router>
+            - <Switch></Switch>
+            - <Route exact path="">(Component)</Route>
+    - useHistory()
+    - useParams
+        - App.js Init
+}
