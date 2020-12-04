@@ -1,25 +1,37 @@
-import logo from './logo.svg';
-import './App.css';
+import React from 'react';
+import Button from './Button';
+import Counter from './Counter';
+import Input from './Input';
+import Switch from './Switch';
 
-function App() {
+const App = () => {
+  const name = "Aditya";
+  const age = 13;
+  
+  const isMarried = false;
+
+  if(name == "Om") {
+    return (
+      <h1>My name is {name}</h1>
+    )
+  }
+
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+    <div>
+      <h1>Hello World</h1>
+      <h2>Hello h2</h2>
+      <button>Hello</button>
+      <input />
+      <h1>My name is {name} and I am {age} years old.</h1>
+      <h2>Om {isMarried ? "is" : "is not"} married</h2>
+      <Button title="This button" />
+      <Button title="Something else" />
+      <Input placeholder="Age: " />
+      <Input placeholder="Name: " />
+      <Counter />
+      <Switch />
     </div>
-  );
-}
+  )
+};
 
 export default App;

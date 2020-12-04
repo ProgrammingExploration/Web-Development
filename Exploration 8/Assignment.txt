@@ -1,0 +1,7 @@
+On and Off Switch
+    - Own Component
+    - State (Boolean)
+    - If True
+        - Text of Button is "On"
+    - If False
+        - Text of Button is "Off"
