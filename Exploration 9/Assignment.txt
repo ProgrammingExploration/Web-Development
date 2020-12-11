@@ -1,13 +1,6 @@
-Navigation Bar
-    - Pages
-        - Home Page
-        - About Page
-    - Input Field Component
-        - Input Field
-            - onChange
-            - Setting State
-        - Displaying
-            - `My name is {name_state}`
-    - Nav Bar
-        - Links
-        - Conditionaly Render Input Field
+Input Field Assignment
+    - Get the Input Field String
+    - Save it in state
+    - <h1>''</h1> (h1 but not displaying anything)
+    - Create a button
+        - onClick sets the h1 to display whatever is in the input field
