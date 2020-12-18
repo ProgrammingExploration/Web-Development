@@ -1,0 +1,12 @@
+{
+  "name": "TypeScript",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "start": "tsc main.ts && node main.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}

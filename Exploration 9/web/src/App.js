@@ -1,4 +1,5 @@
 import React from 'react';
+import Assignment from './Components/Assignment';
 import CounterC from './Components/CounterC';
 import CounterF from './Components/CounterF';
 import Input from './Components/Input';
@@ -11,8 +12,9 @@ const App = () => {
       <CounterF />
       <CounterC />
       <Input />
+      <Assignment />
     </div>
   )
-}
+};
 
 export default App;
