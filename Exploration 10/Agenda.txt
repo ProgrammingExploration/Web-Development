@@ -1,0 +1,24 @@
+12/18/20 - Web Development
+
+Topic(s) - React Inputs, useEffect, Typescript, Types, Enums
+
+Agenda - {
+    - React
+        - Inputs
+        - useEffect
+            - componentDidMount()
+            - Dependencies
+    - Typescript
+        - Install
+            - npm install -g typescript
+            - tsc compiler
+        - Types
+            - string
+            - number
+            - boolean
+            - Your Own Types
+        - Enums
+    - React with Typescript
+        - npx create-react-app my-app --template typescript
+        - yarn create react-app my-app --template typescript
+}
