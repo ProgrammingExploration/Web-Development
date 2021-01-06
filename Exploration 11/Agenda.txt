@@ -1,0 +1,17 @@
+1/8/21 - Web Development
+
+Topic(s) - Typescript React, Prop Types, Typescript Features
+
+Agenda - {
+    - Create
+        - npx create-react-app ./ --template typescript
+    - Clean Folder
+        - Public
+        - Src
+    - Functional Components
+        - React.FC
+        - Prop Types
+        - useState setting types
+    - Class Components
+        - Constructor (Prop Types)
+}
