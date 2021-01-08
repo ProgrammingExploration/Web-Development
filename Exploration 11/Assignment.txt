@@ -1,0 +1,12 @@
+Input Field
+    - Type Props
+        - Placeholder
+        - Value (useState)
+        - onChange
+        - onKeyDown (OPTIONAL)
+    OPTIONAL
+        - Possibly Undefined Prop
+            - Conditional Rendering
+                - { age ? 'Hi' : 'Hello' }
+            - If Statements and Return Early
+            - useState and useEffect

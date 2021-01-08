@@ -1,12 +1,12 @@
 import React from 'react';
-import './App.css';
+import Button from './Components/Button';
 
-const App = ()=> {
+const App = (): JSX.Element => {
   return (
     <div>
-      Hi
+      <Button title='Button' onClick={() => console.log('Hi')} age={5} />
     </div>
-  )
-}
+  );
+};
 
 export default App;
