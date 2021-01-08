@@ -4,7 +4,12 @@ Topic(s) - Typescript React, Prop Types, Typescript Features
 
 Agenda - {
     - Create
-        - npx create-react-app ./ --template typescript
+        - npx create-react-app (folder name) --template typescript
+    - tsconfig.json
+        - Development Language
+        - Compiler Settings
+        - File Settings
+            - React Settings
     - Clean Folder
         - Public
         - Src
