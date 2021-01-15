@@ -1,0 +1,35 @@
+1/15/20 - Web Development
+
+Topic(s) - React-Router-Dom, Building API, useEffect
+
+Agenda - {
+    - Assignment
+    - Init
+        - npx create-react-app web --template typescript 
+    - React-Router-Dom
+        - Install
+            - npm install react-router-dom or Yarn add
+            - npm install --save-dev @types/react-router-dom (Only Typescript) or Yarn add
+        - Setup
+            - App.tsx
+            - Import
+                - BrowserRouter
+                - Switch
+                - Route
+            - How to setup all component (Navigation)
+            - Routes
+            - Components in Routes
+    - API
+        - npm init
+        - Install
+            - npm i express
+        - Server.js
+            - const express = require('express');
+            - Local Server
+            - Routes
+    - Fetching
+        - useEffect
+            - fetch()
+        - Typescript Types
+        - Looping in JSX Elements
+}
