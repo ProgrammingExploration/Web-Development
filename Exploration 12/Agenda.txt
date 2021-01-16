@@ -3,7 +3,7 @@
 Topic(s) - React-Router-Dom, Building API, useEffect
 
 Agenda - {
-    - Assignment
+    - Assignment (Input Field Props)
     - Init
         - npx create-react-app web --template typescript 
     - React-Router-Dom
@@ -19,17 +19,4 @@ Agenda - {
             - How to setup all component (Navigation)
             - Routes
             - Components in Routes
-    - API
-        - npm init
-        - Install
-            - npm i express
-        - Server.js
-            - const express = require('express');
-            - Local Server
-            - Routes
-    - Fetching
-        - useEffect
-            - fetch()
-        - Typescript Types
-        - Looping in JSX Elements
 }

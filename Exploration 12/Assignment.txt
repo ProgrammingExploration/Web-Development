@@ -1,6 +1,5 @@
-Fetch to https://randomapi.com/api/6de6abfedb24f889e0b5f675edc50deb?fmt=raw&sole
-    - Get First or Random Element from Array
-    - Display all information in a JSX Element
+- Create A Navigation Component with Atleast 3 Links
+- Create 3 Pages with Atleast 2 Components each
 
 OPTIONAL
-    - Remake API in Typescript
+    - Style Pages or Full Site

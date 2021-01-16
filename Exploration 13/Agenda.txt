@@ -1,0 +1,19 @@
+1/22 - Web Development
+
+Topic(s) - API, express, Fetching, useEffect
+
+Agenda - {
+    - API
+        - npm init
+        - Install
+            - npm i express
+        - Server.js
+            - const express = require('express');
+            - Local Server
+            - Routes
+    - Fetching
+        - useEffect
+            - fetch()
+        - Typescript Types
+        - Looping in JSX Elements
+}

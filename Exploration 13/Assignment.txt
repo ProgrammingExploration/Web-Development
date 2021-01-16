@@ -1,0 +1,7 @@
+
+Fetch to https://randomapi.com/api/6de6abfedb24f889e0b5f675edc50deb?fmt=raw&sole
+    - Get First or Random Element from Array
+    - Display all information in a JSX Element
+
+OPTIONAL
+    - Remake API in Typescript
