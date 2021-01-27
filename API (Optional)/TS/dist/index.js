@@ -10,15 +10,19 @@ app.use(body_parser_1.default.json());
 app.get('/', (_, res) => {
     res.send('Hi');
 });
-app.get('/:id', (req, res) => {
-    const id = parseInt(req.params.id);
-    res.send(`Your id is ${id}`);
+app.get('/:age', (req, res) => {
+    const age = parseInt(req.params.age);
+    res.send(`${age + 1}`);
 });
-app.post('/', (req, res) => {
+app.post('/new', (req, res) => {
     const data = req.body;
-    res.send(`Your name is ${data.name} and you are ${data.age} years old`);
+    const person = {
+        name: data.name,
+        age: data.age
+    };
+    res.json(person);
 });
-app.listen(5000, () => {
-    console.log('Server started on http://localhost:5000/');
+app.listen(3000, () => {
+    console.log('Server started on http://localhost:3000/');
 });
 //# sourceMappingURL=index.js.map

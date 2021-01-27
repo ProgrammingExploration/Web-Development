@@ -1,15 +1,16 @@
-1/20 - Web Development (OPTIONAL)
+1/271/20 - Web Development (OPTIONAL)
 
-Topic(s) - Express API - JavaScript and TypeScript
+Topic(s) - Express API, JavaScript and TypeScript
 
 Agenda - {
     - JavaScript API
         - Init
             - npm init -y
-            - npm install express
+            - npm install express body-parser
             - devDependencies
         - Setup
             - Importing Express
+            - app.use()
             - Setting up Routes
             - Sending Data
             - Getting Data
