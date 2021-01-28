@@ -1,0 +1,23 @@
+1/29/20 - Web Development
+
+Topic(s) - GraphQL vs. Express
+
+Agenda - {
+    - Express Returning Data
+        - Adding Object to Array Storage 
+        - Return Data
+        - Fetching
+            - Routes
+    - GraphQL Returning Data
+        - Setup
+            - apollo-server-express
+            - /graphql
+        - typeDefs and resolvers
+        - Resolver --> typeDefs (Auto)
+        - Resolvers
+            - Adding Data: Mutation
+            - Returning Data: Query
+        - Fetching
+            - Queries and Mutation
+            - Fetching Certain Data
+}
