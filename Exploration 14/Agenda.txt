@@ -13,6 +13,8 @@ Agenda - {
             - apollo-server-express
             - /graphql
         - typeDefs and resolvers
+        - JavaScript Setup
+        - Typescript Setup
         - Resolver --> typeDefs (Auto)
         - Resolvers
             - Adding Data: Mutation

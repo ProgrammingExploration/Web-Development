@@ -1,0 +1,2 @@
+1) Create a BooksResolver.ts in Resolver Folder
+2) Add Book and Books Query from JS GraphQL API
