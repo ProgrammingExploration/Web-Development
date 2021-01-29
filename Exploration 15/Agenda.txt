@@ -1,0 +1,14 @@
+2/5 - Web Development
+
+Topic(s) - TS GraphQL, Inputs, Using A Universal Array
+
+Agenda - {
+    - Init
+    - Tools.ts
+        - Universal Array (Users)
+        - Find By Username
+        - Exports
+    - Arguments
+        - @Args()
+        - Input Classes: @InputType()
+}
