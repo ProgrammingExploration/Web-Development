@@ -11,4 +11,9 @@ Agenda - {
     - Arguments
         - @Args()
         - Input Classes: @InputType()
+    - Databases
+        - sqlite3
+        - type-orm
+        - ormconfig.json
+        - Queries and Mutations 
 }
