@@ -1,0 +1,26 @@
+Facebook Clone (Basic)
+
+API
+    Mutations
+        - Signup
+        - Login
+        - Create Post
+        - Support/Unsupport User
+        - Like/Unlike Post
+        - Comments
+
+    Queries
+        - Homepage
+        - Post Comments
+        - Trending Posts
+        - User Data
+            - Supporting/Supported
+        - All Category
+        
+    Models
+        - Post
+        - Category
+        - Comment
+        - User
+
+Web
