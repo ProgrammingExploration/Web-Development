@@ -1,12 +1,14 @@
 Facebook Clone (Basic)
 
+Heroku Deploys
+    - git push heroku master
+
 API
     Mutations
         - Signup
         - Login
         - Create Post
         - Support/Unsupport User
-        - Like/Unlike Post
         - Comments
 
     Queries
